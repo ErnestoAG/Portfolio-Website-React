@@ -3,6 +3,8 @@
 ## Description
 
 This application is a portfolio application to showcase some of my projects. Through this application, users can see information about me as a full stack developer, download my resume, visit some projects, and leave contact data.
+
+Here is the deployed application's link via Netlify: https://66e4f4bc0d81eec8e4953237--precious-tartufo-d1be89.netlify.app/
  
 ## Installation
 
